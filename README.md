@@ -1,3 +1,36 @@
+# Kalf Portfolio
+
+A clean, beautiful, and responsive portfolio template for Developers!
+
+## Description
+
+This is a personal portfolio website built using the Simplefolio template. It showcases my projects, skills, and contact information.
+
+## Installation
+
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/onlyonekalf/kalf-portfolio.git
+    cd kalf-portfolio
+    ```
+
+2. Install dependencies:
+    ```sh
+    npm install
+    ```
+
+3. Start the development server:
+    ```sh
+    npm start
+    ```
+
+## Build
+
+To build the project for production, run:
+```sh
+npm run build
+```
+
 # Simplefolio ⚡️ [![GitHub](https://img.shields.io/github/license/cobiwave/simplefolio?color=blue)](https://github.com/cobiwave/simplefolio/blob/master/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/cobiwave/simplefolio) ![GitHub forks](https://img.shields.io/github/forks/cobiwave/simplefolio)
 
 ## A minimal portfolio template for Developers!
@@ -358,5 +391,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments 🎁
 
 I was motivated to create this project because I wanted to contribute on something useful for the dev community, thanks to [ZTM Community](https://github.com/zero-to-mastery) and [Andrei](https://github.com/aneagoie)
-#   A h m a d f o l i o  
+#   A h m a d f o l i o 
+ 
  
